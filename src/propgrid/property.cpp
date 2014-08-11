@@ -1898,7 +1898,7 @@ int wxPGProperty::InsertChoice( const wxString& label, int index, int value )
     wxPropertyGrid* pg = GetGrid();
     const int sel = GetChoiceSelection();
 
-    int newSel = sel;
+    int newSel = (sel == wxNOT_FOUND) ? 0 : sel;
 
     const int numChoices = m_choices.GetCount();
     if ( index == wxNOT_FOUND )
@@ -1958,7 +1958,7 @@ int wxPGProperty::GetChoiceSelection() const
 
     if ( valueType == wxPG_VARIANT_TYPE_LONG )
     {
-        index = value.GetLong();
+        index = m_choices.Index(value.GetLong());
     }
     else if ( valueType == wxPG_VARIANT_TYPE_STRING )
     {
