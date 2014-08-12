@@ -166,7 +166,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalOptions=""
-				AdditionalDependencies="wxtiffd.lib wxjpegd.lib wxpngd.lib   wxzlibd.lib wxregexud.lib wxexpatd.lib   kernel32.lib user32.lib gdi32.lib comdlg32.lib winspool.lib winmm.lib shell32.lib comctl32.lib ole32.lib oleaut32.lib uuid.lib rpcrt4.lib advapi32.lib wsock32.lib wininet.lib ..\..\lib\vc_dll\wxbase31ud.lib"
+				AdditionalDependencies="wxtiffd.lib wxjpegd.lib wxpngd.lib   wxzlibd.lib wxregexud.lib wxexpatd.lib   kernel32.lib user32.lib gdi32.lib comdlg32.lib winspool.lib winmm.lib shell32.lib comctl32.lib ole32.lib oleaut32.lib uuid.lib rpcrt4.lib advapi32.lib wsock32.lib wininet.lib shlwapi.lib ..\..\lib\vc_dll\wxbase31ud.lib"
 				OutputFile="..\..\lib\vc_dll\wxmsw310ud_core_vc_custom.dll"
 				LinkIncremental="2"
 				ImportLibrary="..\..\lib\vc_dll\wxmsw31ud_core.lib"
@@ -231,7 +231,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalOptions=""
-				AdditionalDependencies="wxtiff.lib wxjpeg.lib wxpng.lib   wxzlib.lib wxregexu.lib wxexpat.lib   kernel32.lib user32.lib gdi32.lib comdlg32.lib winspool.lib winmm.lib shell32.lib comctl32.lib ole32.lib oleaut32.lib uuid.lib rpcrt4.lib advapi32.lib wsock32.lib wininet.lib ..\..\lib\vc_dll\wxbase31u.lib"
+				AdditionalDependencies="wxtiff.lib wxjpeg.lib wxpng.lib   wxzlib.lib wxregexu.lib wxexpat.lib   kernel32.lib user32.lib gdi32.lib comdlg32.lib winspool.lib winmm.lib shell32.lib comctl32.lib ole32.lib oleaut32.lib uuid.lib rpcrt4.lib advapi32.lib wsock32.lib wininet.lib shlwapi.lib ..\..\lib\vc_dll\wxbase31u.lib"
 				OutputFile="..\..\lib\vc_dll\wxmsw310u_core_vc_custom.dll"
 				LinkIncremental="1"
 				ImportLibrary="..\..\lib\vc_dll\wxmsw31u_core.lib"
@@ -986,6 +986,9 @@
 				RelativePath="..\..\src\msw\statusbar.cpp">
 			</File>
 			<File
+				RelativePath="..\..\src\msw\taskbarbutton.cpp">
+			</File>
+			<File
 				RelativePath="..\..\src\msw\textctrl.cpp">
 			</File>
 			<File
@@ -1570,6 +1573,9 @@
 			</File>
 			<File
 				RelativePath="..\..\include\wx\msw\taskbar.h">
+			</File>
+			<File
+				RelativePath="..\..\include\wx\msw\taskbarbutton.h">
 			</File>
 			<File
 				RelativePath="..\..\include\wx\msw\textctrl.h">
@@ -2557,6 +2563,9 @@
 			</File>
 			<File
 				RelativePath="..\..\include\wx\taskbar.h">
+			</File>
+			<File
+				RelativePath="..\..\include\wx\taskbarbutton.h">
 			</File>
 			<File
 				RelativePath="..\..\include\wx\tbarbase.h">

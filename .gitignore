@@ -25,3 +25,11 @@ lib/
 *.exe
 *.out
 *.app
+
+# Visual studio files.
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.suo
+build/msw/ipch/
+*.pyc
