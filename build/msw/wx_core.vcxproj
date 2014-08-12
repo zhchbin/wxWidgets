@@ -899,6 +899,7 @@
       <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(IntDir)msw_%(Filename).obj</ObjectFileName>
     </ClCompile>
     <ClCompile Include="..\..\src\msw\statusbar.cpp" />
+    <ClCompile Include="..\..\src\msw\taskbarbutton.cpp" />
     <ClCompile Include="..\..\src\msw\textctrl.cpp">
       <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='DLL Debug|Win32'">$(IntDir)msw_%(Filename).obj</ObjectFileName>
       <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='DLL Debug|x64'">$(IntDir)msw_%(Filename).obj</ObjectFileName>
@@ -1121,6 +1122,7 @@
     <ClInclude Include="..\..\include\wx\msw\statline.h" />
     <ClInclude Include="..\..\include\wx\msw\stattext.h" />
     <ClInclude Include="..\..\include\wx\msw\statusbar.h" />
+    <ClInclude Include="..\..\include\wx\msw\taskbarbutton.h" />
     <ClInclude Include="..\..\include\wx\msw\textctrl.h" />
     <ClInclude Include="..\..\include\wx\msw\textentry.h" />
     <ClInclude Include="..\..\include\wx\msw\tglbtn.h" />
@@ -1338,6 +1340,7 @@
     <ClInclude Include="..\..\include\wx\toolbook.h" />
     <ClInclude Include="..\..\include\wx\tooltip.h" />
     <ClInclude Include="..\..\include\wx\persist\toplevel.h" />
+    <ClInclude Include="..\..\include\wx\taskbarbutton.h" />
     <ClInclude Include="..\..\include\wx\toplevel.h" />
     <ClInclude Include="..\..\include\wx\treebase.h" />
     <ClInclude Include="..\..\include\wx\persist\treebook.h" />
