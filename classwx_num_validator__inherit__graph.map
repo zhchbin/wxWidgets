@@ -1,0 +1,8 @@
+<map id="wxNumValidator&lt; T &gt;" name="wxNumValidator&lt; T &gt;">
+<area shape="rect" id="node6" href="$classwx_floating_point_validator.html" title="Validator for text entries used for floating point numbers entry. " alt="" coords="5,304,201,331"/>
+<area shape="rect" id="node7" href="$classwx_integer_validator.html" title="Validator for text entries used for integer entry. " alt="" coords="225,304,389,331"/>
+<area shape="rect" id="node2" href="$classwx_validator.html" title="wxValidator is the base class for a family of validator classes that mediate between a class of contr..." alt="" coords="160,155,249,181"/>
+<area shape="rect" id="node3" href="$classwx_evt_handler.html" title="A class that can handle events from the windowing system. " alt="" coords="155,80,254,107"/>
+<area shape="rect" id="node4" href="$classwx_object.html" title="This is the root class of many of the wxWidgets classes. " alt="" coords="113,5,187,32"/>
+<area shape="rect" id="node5" href="$classwx_trackable.html" title="Add&#45;on base class for a trackable object. " alt="" coords="212,5,307,32"/>
+</map>

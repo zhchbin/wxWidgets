@@ -1,0 +1,6 @@
+<map id="wxRichTextBuffer" name="wxRichTextBuffer">
+<area shape="rect" id="node2" href="$classwx_rich_text_paragraph_layout_box.html" title="This class knows how to lay out paragraphs. " alt="" coords="5,229,208,256"/>
+<area shape="rect" id="node3" href="$classwx_rich_text_composite_object.html" title="Objects of this class can contain other objects. " alt="" coords="15,155,199,181"/>
+<area shape="rect" id="node4" href="$classwx_rich_text_object.html" title="This is the base for drawable rich text objects. " alt="" coords="45,80,169,107"/>
+<area shape="rect" id="node5" href="$classwx_object.html" title="This is the root class of many of the wxWidgets classes. " alt="" coords="69,5,144,32"/>
+</map>

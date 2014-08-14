@@ -1,0 +1,7 @@
+<map id="wxBufferedDC" name="wxBufferedDC">
+<area shape="rect" id="node5" href="$classwx_buffered_paint_d_c.html" title="This is a subclass of wxBufferedDC which can be used inside of an EVT_PAINT() event handler to achiev..." alt="" coords="18,304,149,331"/>
+<area shape="rect" id="node2" href="$classwx_memory_d_c.html" title="A memory device context provides a means to draw graphics onto a bitmap. " alt="" coords="33,155,133,181"/>
+<area shape="rect" id="node3" href="$classwx_d_c.html" title="A wxDC is a &quot;device context&quot; onto which graphics and text can be drawn. " alt="" coords="56,80,111,107"/>
+<area shape="rect" id="node4" href="$classwx_object.html" title="This is the root class of many of the wxWidgets classes. " alt="" coords="46,5,121,32"/>
+<area shape="rect" id="node6" href="$classwx_auto_buffered_paint_d_c.html" title="This wxDC derivative can be used inside of an EVT_PAINT() event handler to achieve double&#45;buffered dr..." alt="" coords="5,379,161,405"/>
+</map>

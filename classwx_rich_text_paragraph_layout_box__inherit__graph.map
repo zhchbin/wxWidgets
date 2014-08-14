@@ -1,0 +1,10 @@
+<map id="wxRichTextParagraphLayoutBox" name="wxRichTextParagraphLayoutBox">
+<area shape="rect" id="node5" href="$classwx_rich_text_box.html" title="This class implements a floating or inline text box, containing paragraphs. " alt="" coords="74,304,181,331"/>
+<area shape="rect" id="node8" href="$classwx_rich_text_buffer.html" title="This is a kind of paragraph layout box, used to represent the whole buffer. " alt="" coords="205,304,327,331"/>
+<area shape="rect" id="node9" href="$classwx_rich_text_field.html" title="This class implements the general concept of a field, an object that represents additional functional..." alt="" coords="351,304,466,331"/>
+<area shape="rect" id="node2" href="$classwx_rich_text_composite_object.html" title="Objects of this class can contain other objects. " alt="" coords="174,155,358,181"/>
+<area shape="rect" id="node3" href="$classwx_rich_text_object.html" title="This is the base for drawable rich text objects. " alt="" coords="204,80,328,107"/>
+<area shape="rect" id="node4" href="$classwx_object.html" title="This is the root class of many of the wxWidgets classes. " alt="" coords="229,5,303,32"/>
+<area shape="rect" id="node6" href="$classwx_rich_text_cell.html" title="wxRichTextCell is the cell in a table, in which the user can type. " alt="" coords="5,379,113,405"/>
+<area shape="rect" id="node7" href="$classwx_rich_text_table.html" title="wxRichTextTable represents a table with arbitrary columns and rows. " alt="" coords="137,379,256,405"/>
+</map>
