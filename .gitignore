@@ -3,6 +3,7 @@
 *vc_mswud
 include/wx/msw/setup.h
 lib/
+docs/doxygen/out/
 
 # Compiled Object files
 *.slo
