@@ -27,6 +27,10 @@
 // Win32 only, is default (and only) on some other platforms
 #define wxGA_SMOOTH          0x0020
 
+#if wxUSE_TASKBARBUTTON
+#define wxGA_PROGRESS        0x0010
+#endif
+
 // GTK and Mac always have native implementation of the indeterminate mode
 // wxMSW has native implementation only if comctl32.dll >= 6.00
 #if !defined(__WXGTK20__) && !defined(__WXMAC__)
