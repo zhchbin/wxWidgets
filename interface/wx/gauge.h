@@ -16,6 +16,10 @@
 // Win32 only, is default (and only) on some other platforms
 #define wxGA_SMOOTH          0x0020
 
+// Available since Windows 7 only. With this style, the value of guage will
+// reflect on the taskbar button.
+#define wxGA_PROGRESS        0x0010
+
 /**
     @class wxGauge
 
