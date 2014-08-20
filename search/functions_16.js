@@ -76,7 +76,7 @@ var searchData=
   ['wxanybutton',['wxAnyButton',['../classwx_any_button.html#a89b895988e816974fa5f5971e2f3e2a4',1,'wxAnyButton']]],
   ['wxanyvaluetype',['wxAnyValueType',['../classwx_any_value_type.html#aaeceab8d8c9217bff50a4b11578f10a6',1,'wxAnyValueType']]],
   ['wxapp',['wxApp',['../classwx_app.html#a3a547cfe6155606bec0bc45e147d1ff9',1,'wxApp']]],
-  ['wxappprogressindicator',['wxAppProgressIndicator',['../classwx_app_progress_indicator.html#ad25fc2fdc7e10178914e6a9c5a753cc3',1,'wxAppProgressIndicator']]],
+  ['wxappprogressindicator',['wxAppProgressIndicator',['../classwx_app_progress_indicator.html#a31f8044d299b8231b1b95bc62002112d',1,'wxAppProgressIndicator']]],
   ['wxarchivefshandler',['wxArchiveFSHandler',['../classwx_archive_f_s_handler.html#a37457b1e45da66276dbb6bedba2a858b',1,'wxArchiveFSHandler']]],
   ['wxarchiveiterator',['wxArchiveIterator',['../classwx_archive_iterator.html#aa9efa7aaf43227212b9ced2ac4a9d2bf',1,'wxArchiveIterator::wxArchiveIterator()'],['../classwx_archive_iterator.html#a183ba26604c7efab6f62e5f0d1a01980',1,'wxArchiveIterator::wxArchiveIterator(Arc &amp;arc)']]],
   ['wxarray',['wxArray',['../classwx_array_3_01_t_01_4.html#a714c1ed4b8be1a8e7073ebe8ae387303',1,'wxArray&lt; T &gt;::wxArray()'],['../classwx_array_3_01_t_01_4.html#ae6ce544f41797c2bca97507beca57b6c',1,'wxArray&lt; T &gt;::wxArray(const wxArray &amp;array)']]],

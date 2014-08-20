@@ -203,6 +203,7 @@ var searchData=
   ['wxframe_5ftool_5fwindow',['wxFRAME_TOOL_WINDOW',['../frame_8h.html#ad5671d2c5064e1f40a4d459f836d1d0c',1,'frame.h']]],
   ['wxfull_5frepaint_5fon_5fresize',['wxFULL_REPAINT_ON_RESIZE',['../defs_8h.html#a335a00609a377db747cc5a5de588c5a6',1,'defs.h']]],
   ['wxga_5fhorizontal',['wxGA_HORIZONTAL',['../gauge_8h.html#a5f4827d465c7cc1c915d1ebe0feafe29',1,'gauge.h']]],
+  ['wxga_5fprogress',['wxGA_PROGRESS',['../gauge_8h.html#aa802ea280b9278ddee199028192026b2',1,'gauge.h']]],
   ['wxga_5fsmooth',['wxGA_SMOOTH',['../gauge_8h.html#aa5aed56c3229955d046cad676292566a',1,'gauge.h']]],
   ['wxga_5fvertical',['wxGA_VERTICAL',['../gauge_8h.html#a7ed5da226d03ce3eb48848cd2faf771d',1,'gauge.h']]],
   ['wxhelp',['wxHELP',['../defs_8h.html#a111c2b7b06972d742f4708983337825a',1,'defs.h']]],

@@ -43,7 +43,7 @@ var searchData=
   ['unsettooltip',['UnsetToolTip',['../classwx_window.html#ae75712451673658b0a533480bf5eeaa4',1,'wxWindow']]],
   ['unshare',['UnShare',['../classwx_object.html#a74b40e42d19a4b9e9bec0b57d62a5725',1,'wxObject::UnShare()'],['../classwx_variant.html#af5021c0a8bfb8ce1b987764ab662b132',1,'wxVariant::Unshare()']]],
   ['unsplit',['Unsplit',['../classwx_splitter_window.html#a8802da28267a6bb4eb6610f6abca2fc3',1,'wxSplitterWindow']]],
-  ['update',['Update',['../classwx_aui_manager.html#a0b58a6eaef93c8aff7e2872cf487ffb3',1,'wxAuiManager::Update()'],['../classwx_generic_progress_dialog.html#a1d542cea96c531d85c32d6612bd55a02',1,'wxGenericProgressDialog::Update()'],['../classwx_app_progress_indicator.html#a0f6dbf44fe5254ac27c039adf80b9db7',1,'wxAppProgressIndicator::Update()'],['../classwx_window.html#abaf28f1a075fd1b10f761a8febe597ec',1,'wxWindow::Update()']]],
+  ['update',['Update',['../classwx_aui_manager.html#a0b58a6eaef93c8aff7e2872cf487ffb3',1,'wxAuiManager::Update()'],['../classwx_generic_progress_dialog.html#a1d542cea96c531d85c32d6612bd55a02',1,'wxGenericProgressDialog::Update()'],['../classwx_window.html#abaf28f1a075fd1b10f761a8febe597ec',1,'wxWindow::Update()']]],
   ['updateallviews',['UpdateAllViews',['../classwx_document.html#a5c4e930bbc9606120f05b0b3b2cf2192',1,'wxDocument']]],
   ['updateappearance',['UpdateAppearance',['../classwx_rich_text_action.html#a1dab0d1fa9515cc0bd061fec0d4dfede',1,'wxRichTextAction']]],
   ['updatebackingfromwindow',['UpdateBackingFromWindow',['../classwx_drag_image.html#ac9c8b815d7bc1aada1135c6dcf7f05ba',1,'wxDragImage']]],
