@@ -26,6 +26,8 @@
 
 // Win32 only, is default (and only) on some other platforms
 #define wxGA_SMOOTH          0x0020
+// QT only, display current completed percentage (text default format "%p%")
+#define wxGA_TEXT            0x0040
 
 #if wxUSE_TASKBARBUTTON
 #define wxGA_PROGRESS        0x0010
@@ -113,6 +115,8 @@ protected:
     #include "wx/gtk1/gauge.h"
 #elif defined(__WXMAC__)
     #include "wx/osx/gauge.h"
+#elif defined(__WXQT__)
+    #include "wx/qt/gauge.h"
 #endif
 
 #endif // wxUSE_GAUGE
